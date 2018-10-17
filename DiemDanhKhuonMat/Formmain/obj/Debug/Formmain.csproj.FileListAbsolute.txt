@@ -1,0 +1,52 @@
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\bin\Debug\Formmain.exe.config
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\bin\Debug\Formmain.exe
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\bin\Debug\Formmain.pdb
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.Form1.resources
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.Properties.Resources.resources
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.exe
+C:\Users\Asus\source\repos\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.pdb
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Formmain.exe.config
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.exe
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.pdb
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Formmain.exe
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Formmain.pdb
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.csprojResolveAssemblyReference.cache
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.Form1.resources
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.Properties.Resources.resources
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.csproj.GenerateResource.Cache
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\DirectShowLib-2005.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.UI.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.Util.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\ZedGraph.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.World.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.xml
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.UI.xml
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.Util.xml
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\ZedGraph.xml
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\Emgu.CV.World.xml
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\de\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\es\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\fr\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\hu\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\it\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\ja\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\pt\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\ru\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\sk\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\sv\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\tr\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.csproj.Formmain.exe.config
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.frmThemlop.resources
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.frmThemSinhVien.resources
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\opencv_core220.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\bin\Debug\opencv_imgproc220.dll
+D:\BAI TAP LON\code\DiemDanhKhuonMat\Formmain\obj\Debug\Formmain.frmDiemDanh.resources
